@@ -224,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64B3148A1B0A37A7003FB61D /* test2.cpp in Sources */,
 				35E8EF7D1B09B4340016F1E1 /* ViewController.m in Sources */,
 				35E8EF7A1B09B4340016F1E1 /* AppDelegate.m in Sources */,
 				35E8EF771B09B4340016F1E1 /* main.m in Sources */,
