@@ -14,6 +14,7 @@
 		35E8EF821B09B4340016F1E1 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 35E8EF811B09B4340016F1E1 /* Images.xcassets */; };
 		35E8EF851B09B4340016F1E1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35E8EF831B09B4340016F1E1 /* LaunchScreen.xib */; };
 		35E8EF911B09B4340016F1E1 /* swatiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 35E8EF901B09B4340016F1E1 /* swatiTests.m */; };
+		64B3148A1B0A37A7003FB61D /* test2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 64B314881B0A37A7003FB61D /* test2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +41,8 @@
 		35E8EF8A1B09B4340016F1E1 /* swatiTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = swatiTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		35E8EF8F1B09B4340016F1E1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		35E8EF901B09B4340016F1E1 /* swatiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = swatiTests.m; sourceTree = "<group>"; };
+		64B314881B0A37A7003FB61D /* test2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; name = test2.cpp; path = swati/test2.cpp; sourceTree = "<group>"; };
+		64B314891B0A37A7003FB61D /* test2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = test2.h; path = swati/test2.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +66,8 @@
 		35E8EF681B09B4340016F1E1 = {
 			isa = PBXGroup;
 			children = (
+				64B314881B0A37A7003FB61D /* test2.cpp */,
+				64B314891B0A37A7003FB61D /* test2.h */,
 				35E8EF731B09B4340016F1E1 /* swati */,
 				35E8EF8D1B09B4340016F1E1 /* swatiTests */,
 				35E8EF721B09B4340016F1E1 /* Products */,
@@ -219,6 +224,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64B3148A1B0A37A7003FB61D /* test2.cpp in Sources */,
 				35E8EF7D1B09B4340016F1E1 /* ViewController.m in Sources */,
 				35E8EF7A1B09B4340016F1E1 /* AppDelegate.m in Sources */,
 				35E8EF771B09B4340016F1E1 /* main.m in Sources */,
@@ -414,6 +420,7 @@
 				35E8EF961B09B4340016F1E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		35E8EF971B09B4340016F1E1 /* Build configuration list for PBXNativeTarget "swatiTests" */ = {
 			isa = XCConfigurationList;
@@ -422,6 +429,7 @@
 				35E8EF991B09B4340016F1E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
