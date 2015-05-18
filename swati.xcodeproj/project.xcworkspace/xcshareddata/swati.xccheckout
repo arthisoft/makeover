@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E242AE1B-E661-428F-976E-9039ED4C75AA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>swati</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>4FF767CC3B7D4CC39865C5EDCF3F77285E0E2EED</key>
+		<string>https://github.com/arthisoft/makeover.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>swati.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>4FF767CC3B7D4CC39865C5EDCF3F77285E0E2EED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/arthisoft/makeover.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>4FF767CC3B7D4CC39865C5EDCF3F77285E0E2EED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>4FF767CC3B7D4CC39865C5EDCF3F77285E0E2EED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>makeover</string>
+		</dict>
+	</array>
+</dict>
+</plist>
