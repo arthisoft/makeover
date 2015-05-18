@@ -15,6 +15,7 @@
 		35E8EF851B09B4340016F1E1 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 35E8EF831B09B4340016F1E1 /* LaunchScreen.xib */; };
 		35E8EF911B09B4340016F1E1 /* swatiTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 35E8EF901B09B4340016F1E1 /* swatiTests.m */; };
 		35E8EFA21B0A390A0016F1E1 /* Test1.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 35E8EFA01B0A390A0016F1E1 /* Test1.cpp */; };
+		64B3148D1B0A3885003FB61D /* test2.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 64B3148B1B0A3885003FB61D /* test2.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -43,6 +44,8 @@
 		35E8EF901B09B4340016F1E1 /* swatiTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = swatiTests.m; sourceTree = "<group>"; };
 		35E8EFA01B0A390A0016F1E1 /* Test1.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Test1.cpp; sourceTree = "<group>"; };
 		35E8EFA11B0A390A0016F1E1 /* Test1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Test1.h; sourceTree = "<group>"; };
+		64B3148B1B0A3885003FB61D /* test2.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = test2.cpp; sourceTree = "<group>"; };
+		64B3148C1B0A3885003FB61D /* test2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = test2.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +69,8 @@
 		35E8EF681B09B4340016F1E1 = {
 			isa = PBXGroup;
 			children = (
+				64B3148B1B0A3885003FB61D /* test2.cpp */,
+				64B3148C1B0A3885003FB61D /* test2.h */,
 				35E8EFA01B0A390A0016F1E1 /* Test1.cpp */,
 				35E8EFA11B0A390A0016F1E1 /* Test1.h */,
 				35E8EF731B09B4340016F1E1 /* swati */,
@@ -224,11 +229,11 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				64B3148A1B0A37A7003FB61D /* test2.cpp in Sources */,
 				35E8EF7D1B09B4340016F1E1 /* ViewController.m in Sources */,
 				35E8EF7A1B09B4340016F1E1 /* AppDelegate.m in Sources */,
 				35E8EF771B09B4340016F1E1 /* main.m in Sources */,
 				35E8EFA21B0A390A0016F1E1 /* Test1.cpp in Sources */,
+				64B3148D1B0A3885003FB61D /* test2.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
